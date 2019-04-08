@@ -1,0 +1,9 @@
+##For the output the first word, is input to search on the board
+Input:
+A B C E
+S F C S
+A D E E
+Output:
+ABCCED true
+SEE true
+ABCB false

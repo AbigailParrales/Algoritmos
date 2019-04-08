@@ -1,0 +1,18 @@
+#first line is the word
+#second line is the dictionary
+Input:
+dynamicprogramming
+dynamic programming
+Output:
+true
+----------
+Input:
+applepenapple
+apple pen
+Output:
+true
+----------
+catsandog
+cats dog sand and cat
+Output:
+false
