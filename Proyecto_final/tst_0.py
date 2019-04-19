@@ -5,7 +5,6 @@ from tkinter.filedialog import askdirectory
 matrixLike = ['dijkstra.txt','prims.txt']
 
 
-
 def printMatrix(matrix):
 	for i in range(len(matrix)):
 		print (matrix[i])
